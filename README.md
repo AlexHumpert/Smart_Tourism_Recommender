@@ -10,7 +10,7 @@ Minimum viable product for smart tourism app - leveraging recommender systems to
 
 Hello dear reader! This repository contains our work on a smart tourism mvp - Travel Buddy! This work was completed as part of our capstone project of the master in Big Data and Business Analytics at IE University.
 
-Our team was composed of [Manuel Huperrich](https://github.com/Hupperich-Manuel/Hupperich-Manuel), [Thomas August Maria Stenger](https://github.com/ThomasStenger/ThomasStenger), Tamara Samaha, Ignacio Gonzalez, Daniel Chacón. 
+Our team was composed of [Manuel Huperrich](https://github.com/Hupperich-Manuel/Hupperich-Manuel), [Thomas August Maria Stenger](https://github.com/ThomasStenger/ThomasStenger), Tamara Samaha, Ignacio Gonzalez and Daniel Chacón. 
 
 In this repository you will find the following: 
 
