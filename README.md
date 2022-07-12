@@ -1,5 +1,5 @@
 # Smart Tourism App
-Minimum viable product for smart tourism app - leveraging recommender systems to provide personalized touristic experiences
+Machine learning code for powering MVP smart tourism app - leveraging recommender systems to provide personalized touristic experiences
 
 ## Code and Resources Used
 **Python Version:** 3.7
