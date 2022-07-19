@@ -10,7 +10,7 @@ Machine learning code for powering MVP smart tourism app - leveraging recommende
 
 Hello dear reader! This repository contains our work on a smart tourism mvp - Travel Buddy! This work was completed as part of our capstone project of the master in Big Data and Business Analytics at IE University.
 
-Our team was composed of [Manuel Huperrich](https://github.com/Hupperich-Manuel/Hupperich-Manuel), [Thomas August Maria Stenger](https://github.com/ThomasStenger/ThomasStenger), [Tamara Samaha](https://www.linkedin.com/in/tamarasamaha/), [Ignacio Gonzalez](https://www.linkedin.com/in/ignacio-gonzalez-granero/) and [Daniel Chacón](https://www.linkedin.com/in/daniel-chac%C3%B3n-3083b6199/). 
+Our team was composed of [Manuel Huperrich](https://github.com/Hupperich-Manuel/Hupperich-Manuel), [Thomas August Maria Stenger](https://github.com/ThomasStenger), [Tamara Samaha](https://www.linkedin.com/in/tamarasamaha/), [Ignacio Gonzalez](https://www.linkedin.com/in/ignacio-gonzalez-granero/) and [Daniel Chacón](https://www.linkedin.com/in/daniel-chac%C3%B3n-3083b6199/). 
 
 In this repository you will find the following: 
 
@@ -21,3 +21,4 @@ In this repository you will find the following:
 We hope that you will appreciate our work, any feedback is welcome!
 
 Thank you :)
+
