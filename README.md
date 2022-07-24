@@ -1,6 +1,8 @@
 # Smart Tourism App
 Machine learning code for powering MVP smart tourism app - leveraging recommender systems to provide personalized touristic experiences. Takes travel preferences from user and suggests most relevant locations (landmarks, museumes, ec.) in Madrid.
 
+[Link](https://github.com/Hupperich-Manuel/Smart_Tourism) to web app code base 
+
 ## Code and Resources Used
 **Python Version:** 3.7
 
